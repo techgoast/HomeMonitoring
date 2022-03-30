@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HomeMonitoring/static/css/main.0fef3a62.css",
-    "main.js": "/HomeMonitoring/static/js/main.36c156eb.js",
+    "main.js": "/HomeMonitoring/static/js/main.5a38b1cb.js",
     "static/js/787.9ae72f9b.chunk.js": "/HomeMonitoring/static/js/787.9ae72f9b.chunk.js",
     "static/media/fa-solid-900.ttf": "/HomeMonitoring/static/media/fa-solid-900.6aef0a3f12850e081374.ttf",
     "static/media/fa-brands-400.ttf": "/HomeMonitoring/static/media/fa-brands-400.8dddb1b4cd1f65b03167.ttf",
@@ -14,11 +14,11 @@
     "static/media/fa-v4compatibility.woff2": "/HomeMonitoring/static/media/fa-v4compatibility.2e77423e3ed431908eda.woff2",
     "index.html": "/HomeMonitoring/index.html",
     "main.0fef3a62.css.map": "/HomeMonitoring/static/css/main.0fef3a62.css.map",
-    "main.36c156eb.js.map": "/HomeMonitoring/static/js/main.36c156eb.js.map",
+    "main.5a38b1cb.js.map": "/HomeMonitoring/static/js/main.5a38b1cb.js.map",
     "787.9ae72f9b.chunk.js.map": "/HomeMonitoring/static/js/787.9ae72f9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0fef3a62.css",
-    "static/js/main.36c156eb.js"
+    "static/js/main.5a38b1cb.js"
   ]
 }
