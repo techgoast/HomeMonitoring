@@ -19,7 +19,7 @@ font-family: 'Circular Std Book';
 font-size: 15px;
 `;
 export const Analysis = Styled.div`
-max-width: 100%;
+max-width: calc(100% - 40px);
 margin: auto;
 padding: 20px 0;
 `;
