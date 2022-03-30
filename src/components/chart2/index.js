@@ -31,7 +31,7 @@ const Chart2 = (props) => {
     labels,
     datasets: [
         {
-        label: 'Consumed',
+        label: 'Regular Energy',
         data: consumption.map(item => {
             return item.energy.regular;
         }).slice(`-${parseInt(props.count)}`),
@@ -39,7 +39,7 @@ const Chart2 = (props) => {
         tension: .4,
         },
         {
-            label: 'Colledted From Rain',
+            label: 'generated Solar Power',
             data: consumption.map(item => {
                 return item.energy.generatedSolarPower;
             }).slice(`-${parseInt(props.count)}`),

@@ -49,8 +49,8 @@ const Aside = () => {
             </div>
             <div>
               <Icon className="fa-solid fa-droplet"></Icon>
-              <Stp>TEMPERATURE</Stp>
-              <Numbers>26°</Numbers>
+              <Stp>Humedity</Stp>
+              <Numbers>20%</Numbers>
             </div>
           </Flex>
         </Mediahandler>

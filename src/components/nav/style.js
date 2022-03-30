@@ -10,7 +10,7 @@ grid-row: span 3;
     grid-row: 1 / span 1;
     display: flex;
     align-items: center;
-    padding: 0 10px;
+    padding: 5px 10px;
     border-radius: 0;
 }
 `
